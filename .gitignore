@@ -1,0 +1,14 @@
+/build/*
+test/unit/build/*
+test/unit_tests/build/*
+*.swp
+*.swo
+cmake-build-debug/*
+cmake-build-release/*
+.idea/*
+.idea/
+test/intergration/build/*
+.vscode/
+/test/mock_server/build/*
+/test/mock_server/cmake-build-debug/*
+webdb/build/*
